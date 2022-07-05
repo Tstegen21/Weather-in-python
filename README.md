@@ -1,2 +1,2 @@
 # Weather-in-python
-A weather app that pulls request from an open api
+A weather app that displays geo/weather information of an input place.
